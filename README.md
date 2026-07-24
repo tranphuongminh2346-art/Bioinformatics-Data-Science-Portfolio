@@ -23,6 +23,7 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 13: Malaria Cell Image Classifier](./project_013_malaria_classifier/) | `![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square)` | Python, Scikit-Learn, Pandas | Microscopy cell image classifier. Extracts intensity and morphology features, trains Random Forest, and plots ROC. |
 | [Project 14: Clinical Trials REST API](./project_014_clinical_api/) | `![Software Engineering](https://img.shields.io/badge/Software%20Engineering-purple?style=flat-square)` | Python, Flask, SQLite | REST API server for clinical trials database. Exposes query parameters filters and summary statistics. |
 | [Project 15: Phylogenetic Tree Reconstructor](./project_015_phylogenetic_tree/) | `![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square)` | Python, NumPy | Phylogenetic tree reconstructor implementing UPGMA clustering. Outputs Newick strings and ASCII tree layouts. |
+| [Project 16: House Price Predictor](./project_016_house_predictor/) | `![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square)` `![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square)` | Python, Scikit-Learn, Ridge | Real estate house price predictor. Implements scaled Ridge regression, prints coefficients, and plots fit scatter. |
 
 ---
 
