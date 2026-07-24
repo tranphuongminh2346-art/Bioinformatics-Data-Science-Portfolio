@@ -1,0 +1,68 @@
+[
+  {
+    "pmid": "2231712",
+    "title": "Basic local alignment search tool (BLAST)",
+    "authors": "Altschul SF, et al.",
+    "year": 1990,
+    "citations": []
+  },
+  {
+    "pmid": "7984417",
+    "title": "CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment",
+    "authors": "Thompson JD, et al.",
+    "year": 1994,
+    "citations": [
+      "2231712"
+    ]
+  },
+  {
+    "pmid": "11237011",
+    "title": "Initial sequencing and analysis of the human genome",
+    "authors": "Lander ES, et al. (International Human Genome Sequencing Consortium)",
+    "year": 2001,
+    "citations": [
+      "2231712",
+      "7984417"
+    ]
+  },
+  {
+    "pmid": "11516118",
+    "title": "The sequence of the human genome",
+    "authors": "Venter JC, et al. (Celera Genomics)",
+    "year": 2001,
+    "citations": [
+      "2231712",
+      "7984417",
+      "11237011"
+    ]
+  },
+  {
+    "pmid": "15215342",
+    "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+    "authors": "Edgar RC",
+    "year": 2004,
+    "citations": [
+      "7984417"
+    ]
+  },
+  {
+    "pmid": "18667341",
+    "title": "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome",
+    "authors": "Langmead B, et al. (Bowtie)",
+    "year": 2009,
+    "citations": [
+      "11237011",
+      "11516118"
+    ]
+  },
+  {
+    "pmid": "22247279",
+    "title": "Fast gapped-read alignment with Bowtie 2",
+    "authors": "Langmead B, et al.",
+    "year": 2012,
+    "citations": [
+      "18667341",
+      "11237011"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "pmid": "31048291",
+    "title": "Efficacy of novel inhibitor drug on lung tumor reduction",
+    "abstract": "In this clinical study, we evaluated the therapeutic efficacy of a novel tyrosine kinase inhibitor. The drug significantly reduced tumor volume in lung cancer patients. Progression-free survival was dramatically improved compared to standard chemotherapy, demonstrating a promising positive outcome for targeted cancer therapy."
+  },
+  {
+    "pmid": "32014022",
+    "title": "Adverse cardiovascular effects of compound X in animal model",
+    "abstract": "We investigated the long-term safety profile of compound X. Unfortunately, experimental animals exhibited severe cardiac toxicity, including arrhythmia and myocardial infarction. Treatment failed to provide therapeutic benefits and instead increased mortality rates. These harmful effects suggest compound X is unsafe for human trials."
+  },
+  {
+    "pmid": "30155678",
+    "title": "Pharmacokinetics of oral insulin formulation in healthy volunteers",
+    "abstract": "A phase I clinical trial was conducted to study the absorption and clearance rates of oral insulin. The drug was absorbed quickly through the intestinal wall, reaching peak concentration at 45 minutes. Normal baseline glucose levels were maintained. No significant adverse events or efficacy differences were observed."
+  },
+  {
+    "pmid": "33245601",
+    "title": "Immunogenicity of vaccine candidate against viral pathogen",
+    "abstract": "The vaccine candidate induced robust neutralizing antibody responses in all immunized subjects. Cellular immunity was strongly activated with high levels of interferon-gamma secretion. These results suggest positive vaccine efficacy and support proceeding to phase II clinical evaluation."
+  },
+  {
+    "pmid": "34110992",
+    "title": "Evaluation of combination therapy for resistant bacterial strains",
+    "abstract": "We compared combination antibiotic therapy against monotherapy. Regrettably, combination treatment did not reduce bacterial load. High rates of drug resistance were observed. Due to these poor efficacy results and high rates of toxicity, this treatment regimen was deemed ineffective."
+  }
+]

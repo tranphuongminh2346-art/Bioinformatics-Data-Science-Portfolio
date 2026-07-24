@@ -1,0 +1,5 @@
+git_push.bat
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+gc_content_profile.png

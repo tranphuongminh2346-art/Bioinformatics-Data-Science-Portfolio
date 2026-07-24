@@ -1,0 +1,21 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,Churn
+0001-ABCD,2,70.50,141.00,Month-to-month,Fiber optic,Yes
+0002-EFGH,45,20.00,900.00,Two year,No,No
+0003-IJKL,10,55.10,551.00,Month-to-month,DSL,Yes
+0004-MNOP,72,115.80,8337.60,Two year,Fiber optic,No
+0005-QRST,5,80.85,404.25,Month-to-month,Fiber optic,Yes
+0006-UVWX,12,45.30,543.60,One year,DSL,No
+0007-YZAB,3,95.00,285.00,Month-to-month,Fiber optic,Yes
+0008-CDEF,60,60.25,3615.00,Two year,DSL,No
+0009-GHIJ,1,75.05,75.05,Month-to-month,Fiber optic,Yes
+0010-KLMN,40,90.15,3606.00,One year,Fiber optic,No
+0011-OPQR,15,50.30,754.50,Month-to-month,DSL,No
+0012-STUV,68,110.00,7480.00,Two year,Fiber optic,No
+0013-WXYZ,8,25.00,200.00,One year,No,No
+0014-BCDE,4,85.50,342.00,Month-to-month,Fiber optic,Yes
+0015-FGHI,55,100.10,5505.50,One year,Fiber optic,No
+0016-JKLM,22,65.80,1447.60,Month-to-month,DSL,Yes
+0017-NOPQ,35,30.00,1050.00,Two year,No,No
+0018-RSTU,6,75.10,450.60,Month-to-month,Fiber optic,Yes
+0019-VWXY,50,85.00,4250.00,One year,Fiber optic,No
+0020-ZABC,18,20.05,360.90,Two year,No,No

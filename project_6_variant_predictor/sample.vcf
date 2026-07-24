@@ -1,0 +1,14 @@
+##fileformat=VCFv4.2
+##fileDate=20260714
+##source=1000GenomesSubSet
+##reference=GRCh38
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##INFO=<ID=GENE,Number=1,Type=String,Description="Associated Gene Symbol">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr11	220001	rs112233	T	G	100	PASS	DP=30;AF=0.25;GENE=INS
+chr11	220002	rs445566	G	A	100	PASS	DP=45;AF=0.50;GENE=INS
+chr11	220003	rs778899	C	T	100	PASS	DP=20;AF=0.10;GENE=INS
+chr11	220004	.	T	C	90	PASS	DP=15;AF=0.01;GENE=INS
+chr11	220005	rs101010	A	T	100	PASS	DP=50;AF=0.03;GENE=INS
+chr11	220006	.	G	C	80	PASS	DP=10;AF=0.12;GENE=INS

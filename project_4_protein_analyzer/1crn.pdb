@@ -1,0 +1,38 @@
+HEADER    PLANT SEED PROTEIN                      30-APR-81   1CRN
+COMPND    CRAMBIN
+SOURCE    ABYSSINIAN CABBAGE (CRAMBE ABYSSINICA) SEED
+AUTHOR    W.A.HENDRICKSON,M.M.TEETER
+ATOM      1  N   THR A   1      17.047  14.099   3.625  1.00 13.79           N
+ATOM      2  CA  THR A   1      16.967  12.784   4.338  1.00 10.80           C
+ATOM      3  C   THR A   1      15.685  12.755   5.133  1.00 12.91           C
+ATOM      4  O   THR A   1      15.268  13.825   5.594  1.00 14.76           O
+ATOM      5  CB  THR A   1      18.170  12.703   5.337  1.00 13.02           C
+ATOM      6  OG1 THR A   1      19.334  12.829   4.469  1.00 15.06           O
+ATOM      7  CG2 THR A   1      18.150  11.546   6.304  1.00 13.84           C
+ATOM      8  N   THR A   2      15.115  11.555   5.265  1.00 10.97           N
+ATOM      9  CA  THR A   2      13.856  11.469   6.066  1.00 11.24           C
+ATOM     10  C   THR A   2      14.164  10.785   7.379  1.00 11.75           C
+ATOM     11  O   THR A   2      14.993   9.876   7.443  1.00 12.01           O
+ATOM     12  CB  THR A   2      12.730  10.708   5.234  1.00 12.81           C
+ATOM     13  OG1 THR A   2      12.449  11.488   4.048  1.00 12.07           O
+ATOM     14  CG2 THR A   2      11.487  10.536   6.046  1.00 13.03           C
+ATOM     15  N   CYS A   3      13.488  11.244   8.418  1.00 11.54           N
+ATOM     16  CA  CYS A   3      13.633  10.709   9.758  1.00 10.38           C
+ATOM     17  C   CYS A   3      12.262   9.991  10.052  1.00  9.74           C
+ATOM     18  O   CYS A   3      11.401  10.507  10.739  1.00 14.15           O
+ATOM     19  CB  CYS A   3      14.770   9.673   9.761  1.00 10.86           C
+ATOM     20  SG  CYS A   3      16.353  10.297  10.428  1.00 12.05           S
+ATOM     21  N   CYS A   4      12.091   8.790   9.508  1.00  9.13           N
+ATOM     22  CA  CYS A   4      10.871   7.973   9.712  1.00  8.13           C
+ATOM     23  C   CYS A   4      11.084   6.611   9.015  1.00  8.00           C
+ATOM     24  O   CYS A   4      12.083   5.945   9.262  1.00  8.01           O
+ATOM     25  CB  CYS A   4      10.540   7.653  11.203  1.00  9.08           C
+ATOM     26  SG  CYS A   4      11.956   6.812  12.052  1.00  9.14           S
+ATOM     27  N   PRO A   5      10.158   6.208   8.114  1.00  8.06           N
+ATOM     28  CA  PRO A   5      10.222   4.908   7.444  1.00  8.30           C
+ATOM     29  C   PRO A   5      11.396   4.047   8.000  1.00  9.42           C
+ATOM     30  O   PRO A   5      12.247   4.568   8.723  1.00  9.88           O
+ATOM     31  CB  PRO A   5       8.859   4.301   7.747  1.00 10.02           C
+ATOM     32  CG  PRO A   5       8.156   5.353   8.544  1.00  9.03           C
+ATOM     33  CD  PRO A   5       8.859   6.613   8.155  1.00  9.10           C
+END
