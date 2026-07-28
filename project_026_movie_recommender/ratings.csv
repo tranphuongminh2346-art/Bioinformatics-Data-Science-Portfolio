@@ -1,0 +1,16 @@
+user_id,movie_title,rating
+1,Toy Story,5.0
+1,Up,4.5
+1,Finding Nemo,4.0
+2,Toy Story,4.0
+2,Up,5.0
+2,Finding Nemo,4.5
+3,Star Wars,5.0
+3,The Matrix,4.5
+3,Inception,5.0
+4,Star Wars,4.0
+4,The Matrix,5.0
+4,Inception,4.0
+5,Toy Story,5.0
+5,Star Wars,1.0
+5,The Matrix,1.0
