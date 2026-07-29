@@ -34,6 +34,8 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 24: Wine Quality Decision Tree](./project_024_wine_classifier/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn, Matplotlib | Wine chemical quality classifier. Trains Decision Trees, lists splits paths, and exports tree flowcharts. |
 | [Project 25: PubMed API Literature Pipeline](./project_025_pubmed_api_pipeline/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square) | Python, Requests | PubMed REST API literature fetcher. Queries Entrez databases and dumps paper summaries to CSV. |
 | [Project 26: Movie Collaborative Filtering](./project_026_movie_recommender/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn | Collaborative filtering movie recommender. Pivots user ratings and matches movies using Cosine Similarity. |
+| [Project 27: DNA Motif Gibbs Sampler Finder](./project_027_motif_finder/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python, NumPy | DNA Motif finder implementing Gibbs Sampling. Scans sequences and calculates profile probability matrices. |
+| [Project 28: Stock Trading Strategy Backtester](./project_028_trading_backtester/) | ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Pandas, Matplotlib | Stock trading strategy transaction ledger backtester. Simulates SMA crossovers and evaluates Sharpe ratios. |
 
 ---
 
