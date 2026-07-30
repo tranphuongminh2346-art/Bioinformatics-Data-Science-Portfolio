@@ -36,6 +36,8 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 26: Movie Collaborative Filtering](./project_026_movie_recommender/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn | Collaborative filtering movie recommender. Pivots user ratings and matches movies using Cosine Similarity. |
 | [Project 27: DNA Motif Gibbs Sampler Finder](./project_027_motif_finder/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python, NumPy | DNA Motif finder implementing Gibbs Sampling. Scans sequences and calculates profile probability matrices. |
 | [Project 28: Stock Trading Strategy Backtester](./project_028_trading_backtester/) | ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Pandas, Matplotlib | Stock trading strategy transaction ledger backtester. Simulates SMA crossovers and evaluates Sharpe ratios. |
+| [Project 29: Handwritten Digits Classifier](./project_029_digit_recognition/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn | Handwritten digit pixel classifier. Preprocesses 8x8 grids and fits Gaussian Naive Bayes models. |
+| [Project 30: Climate Temperature Anomaly Analyzer](./project_030_temperature_anomaly/) | ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Statsmodels, Matplotlib | Climate temperature anomaly time series analyzer. Performs seasonal additive decompositions and trend fits. |
 
 ---
 
