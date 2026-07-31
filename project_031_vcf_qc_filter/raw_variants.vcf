@@ -1,0 +1,16 @@
+##fileformat=VCFv4.2
+##FILTER=<ID=PASS,Description="All filters passed">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	SAMPLE
+chr1	1001	rs1	A	G	50.0	PASS	DP=15;AF=0.5	GT:GQ:DP	0/1:30:15
+chr1	1002	rs2	T	C	15.0	PASS	DP=5;AF=0.5	GT:GQ:DP	0/1:10:5
+chr1	1003	rs3	C	G	45.0	PASS	DP=20;AF=0.1	GT:GQ:DP	0/1:40:20
+chr1	1004	rs4	G	A	60.0	PASS	DP=18;AF=0.4	GT:GQ:DP	0/1:35:18
+chr1	1005	rs5	C	T	55.0	PASS	DP=12;AF=0.3	GT:GQ:DP	0/1:28:12
+chr1	1006	rs6	A	C	8.0	LowQual	DP=2;AF=0.5	GT:GQ:DP	0/1:5:2
+chr1	1007	rs7	T	G	40.0	PASS	DP=22;AF=0.5	GT:GQ:DP	0/1:25:22
+chr1	1008	rs8	G	C	10.0	PASS	DP=14;AF=0.2	GT:GQ:DP	0/1:8:14
+chr1	1009	rs9	A	T	35.0	PASS	DP=11;AF=0.5	GT:GQ:DP	0/1:22:11
+chr1	1010	rs10	C	A	70.0	PASS	DP=30;AF=0.5	GT:GQ:DP	0/1:50:30
