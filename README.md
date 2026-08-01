@@ -40,6 +40,8 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 30: Climate Temperature Anomaly Analyzer](./project_030_temperature_anomaly/) | ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Statsmodels, Matplotlib | Climate temperature anomaly time series analyzer. Performs seasonal additive decompositions and trend fits. |
 | [Project 31: Genomic VCF Quality Control Filter](./project_031_vcf_qc_filter/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square) | Python | Genomic VCF variant QC quality control filter. Screens calls on GQ and DP and evaluates Ti/Tv ratios. |
 | [Project 32: Extractive Document Summarizer](./project_032_text_summarizer/) | ![AI & NLP](https://img.shields.io/badge/AI%20%26%20NLP-red?style=flat-square) | Python, NetworkX, Scikit-Learn | Extractive document summarizer. Vectorizes sentences, builds cosine graphs, and runs PageRank centrality. |
+| [Project 33: Breast Cancer SVM Classifier](./project_033_cancer_classifier/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn, Matplotlib | Breast cancer Wisconsin diagnostics classifier. Trains RBF SVM and projects 2D decision boundary contours. |
+| [Project 34: PCR Genomic Primer Designer](./project_034_primer_designer/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python | Genomic PCR primer designer. Computes melting temperatures and screens self-complementarity hairpin loops. |
 
 ---
 
