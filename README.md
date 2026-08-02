@@ -42,6 +42,8 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 32: Extractive Document Summarizer](./project_032_text_summarizer/) | ![AI & NLP](https://img.shields.io/badge/AI%20%26%20NLP-red?style=flat-square) | Python, NetworkX, Scikit-Learn | Extractive document summarizer. Vectorizes sentences, builds cosine graphs, and runs PageRank centrality. |
 | [Project 33: Breast Cancer SVM Classifier](./project_033_cancer_classifier/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn, Matplotlib | Breast cancer Wisconsin diagnostics classifier. Trains RBF SVM and projects 2D decision boundary contours. |
 | [Project 34: PCR Genomic Primer Designer](./project_034_primer_designer/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python | Genomic PCR primer designer. Computes melting temperatures and screens self-complementarity hairpin loops. |
+| [Project 35: SQLite Index & Query Profiler](./project_035_query_profiler/) | ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square) ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Matplotlib | SQLite query profiler. Benchmarks indexed vs unindexed read lookups and exports log-scale boxplots. |
+| [Project 36: DNA Open Reading Frame ORF Finder](./project_036_orf_finder/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python | DNA 6-frame ORF coder finder. Scans start/stop codons and translates sequences to amino acids. |
 
 ---
 
