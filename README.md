@@ -44,6 +44,8 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 34: PCR Genomic Primer Designer](./project_034_primer_designer/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python | Genomic PCR primer designer. Computes melting temperatures and screens self-complementarity hairpin loops. |
 | [Project 35: SQLite Index & Query Profiler](./project_035_query_profiler/) | ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square) ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python, Matplotlib | SQLite query profiler. Benchmarks indexed vs unindexed read lookups and exports log-scale boxplots. |
 | [Project 36: DNA Open Reading Frame ORF Finder](./project_036_orf_finder/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) | Python | DNA 6-frame ORF coder finder. Scans start/stop codons and translates sequences to amino acids. |
+| [Project 37: SMS Spam TF-IDF Classifier](./project_037_sms_spam_filter/) | ![AI & NLP](https://img.shields.io/badge/AI%20%26%20NLP-red?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) | Python, Scikit-Learn | SMS Spam text classifier. Vectorizes message words using TF-IDF and trains Logistic Regression models. |
+| [Project 38: Conway's Game of Life Simulator](./project_038_conway_game/) | ![CS & Algorithms](https://img.shields.io/badge/CS%20%26%20Algorithms-lightgrey?style=flat-square) | Python, NumPy, Matplotlib | Conway's Game of Life cellular automaton simulator. Computes toroidal neighbor grids and saves active cells. |
 
 ---
 
